@@ -1,0 +1,23 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+python-dotenv
+
+# Text splitting + document loading extras
+tiktoken
+pypdf
+pdfminer.six
+python-docx
+
+# Embeddings + Vectorstores
+faiss-cpu
+chromadb
+
+# Tools, agents, utilities
+httpx
+requests
+numpy

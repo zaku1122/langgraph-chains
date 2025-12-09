@@ -1,0 +1,13 @@
+Your Convesation Log: 
+You: Hi im zakwan
+End of ConversaionAI: Hello Zakwan! How can I assist you today?
+
+End of ConversaionYou: good morning
+End of ConversaionAI: Good morning! How's your day going so far?
+
+End of ConversaionYou: tell me a joke
+End of ConversaionAI: Sure thing! Why don't scientists trust atoms?
+
+Because they make up everything!
+
+End of Conversaion
